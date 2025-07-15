@@ -13,7 +13,7 @@ Predict the price of any laptop configuration using Machine Learning — all fro
 ## 🚀 Live Demo
 
 🔗 **Try the App**:  
-👉 [Laptop Price Prediction App](https://laptoppricepredictionapp-hdsgjt35ra9nrsbnhhnpwk.streamlit.app/)
+➡️➡️   [Laptop Price Prediction App](https://laptoppricepredictionapp-hdsgjt35ra9nrsbnhhnpwk.streamlit.app/)    ⬅️⬅️
 
 📸 **Preview Screenshot**:  
 <img width="100%" alt="App Screenshot" src="https://github.com/user-attachments/assets/21d672be-d21f-457d-9727-e1c2962e9e2f" />
