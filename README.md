@@ -44,9 +44,11 @@ Uploading lap_price_pred (1).mp4…
 
 ## 📦 Installation
 
-1. **Clone the Repository**  
+1. **Clone the Repository**
+2. download laptop_data.csv file in the folder
 ```bash
 git clone https://github.com/your-username/laptop-price-predictor.git
 cd laptop-price-predictor
 pip install requirements.txt
+python train_model.py
 streamlit run app.py
