@@ -12,7 +12,11 @@ Predict the price of any laptop configuration using Machine Learning — powered
 
 🎥 **Live Demo / Video**: _Coming Soon_  
 📸 **Screenshot**:  
-![App Screenshot](https://user-images.githubusercontent.com/00000000/00000000/sample.png)
+
+
+Uploading lap_price_pred (1).mp4…
+
+
 
 ---
 
