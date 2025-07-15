@@ -114,7 +114,7 @@ If you find this project useful, consider leaving a ⭐ on the repo.
 ## 🙋‍♂️ Author
 
 Created by **[Monis Sheikh](https://github.com/monissheikh1234)**  
-Connect on [LinkedIn]([https://www.linkedin.com/in/monis-sheikh](https://www.linkedin.com/in/monis-mustaque-sheikh-756096276/))
+Connect on **[LinkedIn]([https://www.linkedin.com/in/monis-sheikh](https://www.linkedin.com/in/monis-mustaque-sheikh-756096276/))**
 
 ---
 
